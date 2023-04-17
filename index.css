@@ -1,0 +1,11 @@
+pre{
+    font-size: 20px;
+}
+h1{
+    font-size: 45px;
+    color: crimson;
+    text-shadow: 2px 2px 4px black;
+}
+body{
+    background-color: aqua;
+}
